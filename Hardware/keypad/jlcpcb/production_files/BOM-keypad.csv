@@ -1,0 +1,11 @@
+Comment,Designator,Footprint,LCSC,Quantity
+100R,"R4,R5,R6,R7",R_0603_1608Metric,C22775,4
+100nF,"C1,C2,C3,C4",C_0402_1005Metric,C1525,4
+10k,"R1,R12,R2,R3",R_0603_1608Metric,C15401,4
+Conn_01x04_Pin,J1,PinHeader_1x04_P2.54mm_Vertical,C5116530,1
+Conn_02x06_Counter_Clockwise,J5,IDC-Header_2x06_P2.54mm_Vertical,C5224012,1
+LED,"D1,D2,D3,D4",LED_0805_2012Metric,C2296,4
+SW_Push,SW4,SW_PUSH_6mm,,1
+SW_Push,SW2,SW_PUSH_6mm,,1
+SW_Push,SW3,SW_PUSH_6mm,,1
+SW_Push,SW1,SW_PUSH_6mm,,1
